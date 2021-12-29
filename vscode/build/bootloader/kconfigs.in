@@ -1,0 +1,7 @@
+source "/home/leo/ESP-IDF/esp-idf-v4.3.1/components/efuse/Kconfig"
+source "/home/leo/ESP-IDF/esp-idf-v4.3.1/components/esp32/Kconfig"
+source "/home/leo/ESP-IDF/esp-idf-v4.3.1/components/esp_common/Kconfig"
+source "/home/leo/ESP-IDF/esp-idf-v4.3.1/components/esp_system/Kconfig"
+source "/home/leo/ESP-IDF/esp-idf-v4.3.1/components/log/Kconfig"
+source "/home/leo/ESP-IDF/esp-idf-v4.3.1/components/newlib/Kconfig"
+source "/home/leo/ESP-IDF/esp-idf-v4.3.1/components/spi_flash/Kconfig"
